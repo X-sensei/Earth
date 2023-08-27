@@ -1,7 +1,7 @@
 {
-               "name": "suhail-md",
+               "name": "Earth",
                "version": "1.0.2",
-               "description": "Multi device whatsapp bot by SuhailTechInfo.",
+               "description": "Multi device whatsapp bot by Ronen.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+                 "url": "git+https://github.com/X-sensei/Earth.git"
                   },
                  "bugs": {
                  "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
                   },
-                 "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+                 "homepage": "https://github.com/X-sensei/Earth#readme"
                   }
